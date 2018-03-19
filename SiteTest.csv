@@ -1,0 +1,5 @@
+city,sitelocation,eNB_Id,CI,cellname_c,Sector,PCI,vendor,site_important,celltype,Lon,Lat,reference_signal,BandInfo,EARFCN,band,downtilt_e,downtilt_m,Azimuth,Height,neighbor_LTE,neighbor_TD,neighbor_GSM
+QUZHOU,柯城,416256,106561537,衢州移动大楼_1,1,201,,低层居民区,室内外,118.871771,28.969921,17,38,37900,D,,,,,154,0,28
+QUZHOU,柯城,416256,,衢州移动大楼_2,2,202,诺基亚,低层居民区,室内外,118.871771,28.969921,17,41,40936,D,,,,,139,0,28
+QUZHOU,柯城,416256,106561539,衢州移动大楼_3,3,203,诺基亚,低层居民区,室内外,118.871771,28.969921,17,38,37900,D,,,,,143,0,28
+QUZHOU,常山,416257,106561793,常山城管大队_1,1,123,诺基亚,低层居民区,室外,118.509676,28.902652,17,38,38098,D,0,3,40,13,122,0,34

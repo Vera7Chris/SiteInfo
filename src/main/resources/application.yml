@@ -1,0 +1,20 @@
+server:
+  port: 80
+spring:
+  application:
+    name: uaa
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    username: system
+    password: sys
+    hikari:
+      max-lifetime: 1770000
+      maximum-pool-size: 15
+    url: jdbc:oracle:thin:@localhost:1521:TEXT
+  logging:
+    level:
+      org.springframework: DEBUG
